@@ -1,0 +1,8 @@
+impacket==0.9.22
+pip==22.0.4
+plyer==2.0.0
+pyfiglet==0.8.post0
+pythonping==1.1.1
+rich==12.5.0
+setuptools==62.1.0
+wheel==0.37.1
